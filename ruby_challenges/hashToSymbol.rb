@@ -17,3 +17,5 @@ band_04 = {name: "The Cure", style: "New Wave"}
 awesome = band_02[:name]
 
 puts "#{awesome}"
+
+#this change is to see if git recognizes the change.
